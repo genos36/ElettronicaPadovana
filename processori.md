@@ -1,6 +1,3 @@
-- motherboard1
-- motherboard2
-- motherboard3
 davide lorenzon
 chris libralato
 
