@@ -22,7 +22,12 @@ git add ./
 
 git commit -m "modifiche dell'ultimo minuto"
 
-git flow release finish prova1 -k
+git flow release finish prova1 
+    fa il merge sul master/main locale
+
+git checkout master/main
+
+git push origin master/main
 
 
 
