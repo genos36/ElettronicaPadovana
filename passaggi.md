@@ -16,6 +16,13 @@ git flow feature finish issue1 -k
 
 git flow release start  prova1
 
+git flow release publish prova1 
+
 git add ./
 
 git commit -m "modifiche dell'ultimo minuto"
+
+git flow release finish prova1 -k
+
+
+
